@@ -6,7 +6,7 @@ This is a hygen package for [create-react-app (CRA)](https://github.com/facebook
 
 ```
 $ npm i -g hygen-add
-$ cd your-CRA && hygen-add CRA
+$ cd your-CRA && hygen-add cra
 ```
 
 Then use `help` to see what the generator can do:
