@@ -1,0 +1,16 @@
+{
+  "name": "hygen-CRA",
+  "version": "1.0.0",
+  "description": "A hygen package for create-react-app",
+  "keywords": [
+    "hygen",
+    "generator",
+    "boilerplate",
+    "redux",
+    "react",
+    "create-react-app"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/jondot/hygen-CRA",
+  "license": "MIT"
+}
